@@ -1,7 +1,5 @@
-# UMPythonforEverybody
-## Capstone: Retrieving, Processing, and Visualizing Data with Python
+## Python for Everybody Specialization
 
-### About this Course
+### About this Specialization
 
-
-In the capstone, students will build a series of applications to retrieve, process and visualize data using Python.   The projects will involve all the elements of the specialization.  In the first part of the capstone, students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find.  Chapters 15 and 16 from the book “Python for Everybody” will serve as the backbone for the capstone. This course covers Python 3.
+This Specialization builds on the success of the Python for Everybody course and will introduce fundamental programming concepts including data structures, networked application program interfaces, and databases, using the Python programming language. In the Capstone Project, you’ll use the technologies learned throughout the Specialization to design and create your own applications for data retrieval, processing, and visualization.
